@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Konstantin 👋
+
+I'm a digital designer living in Cologne, Germany – Currently working as a Senior UX/UI Designer at dimensional.
 
 <!--
 **konstantinsaller/konstantinsaller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
