@@ -5,7 +5,7 @@ I'm a digital designer living in Cologne, Germany – Currently working as a Sen
 I love –
 - 🙀 to help creating exciting digital products
 - 💅🏻 building, working with & maintaining design systems
-- 🛠️ bringing design to live
+- 🛠️ bringing design to life
 
 <!--
 **konstantinsaller/konstantinsaller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
