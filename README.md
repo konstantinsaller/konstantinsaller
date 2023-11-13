@@ -2,6 +2,11 @@
 
 I'm a digital designer living in Cologne, Germany – Currently working as a Senior UX/UI Designer at dimensional.
 
+I love –
+- 🙀 to help creating exciting digital products
+- 💅🏻 building, working with & maintaining design systems
+- 🛠️ bringing design to live
+
 <!--
 **konstantinsaller/konstantinsaller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
