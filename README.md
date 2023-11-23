@@ -7,6 +7,8 @@ I love –
 - to build, maintain & work with design systems 💅🏻
 - I love to bring design to life & learn new skills 👨🏻‍💻
 
+Let's talk – I'm open to new connections.
+
 <!--
 **konstantinsaller/konstantinsaller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
