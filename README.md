@@ -1,6 +1,6 @@
 ### Hi, I'm Konstantin 👋
 
-I'm a digital designer living in Cologne, Germany – Currently working as a Senior UX/UI Designer at dimensional.
+I'm a digital designer living in Cologne, Germany – Currently working as a Senior UX/UI Designer at [dimensional](https://dimensional.de).
 
 I love –
 - to help create exciting & useful digital products 🙀
