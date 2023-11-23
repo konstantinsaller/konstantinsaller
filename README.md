@@ -2,7 +2,7 @@
 
 I'm a digital designer living in Cologne, Germany – Currently working as a Senior UX/UI Designer at dimensional.
 
-I love
+I love –
 - to help create exciting & useful digital products 🙀
 - to build, maintain & work with design systems 💅🏻
 - I love to bring design to life & learn new skills 👨🏻‍💻
